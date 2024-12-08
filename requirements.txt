@@ -1,4 +1,4 @@
-pandas
+tensorflow>=2.0.0
+streamlit
 numpy
-tensorflow
-keras
+scikit-learn
