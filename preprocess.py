@@ -30,6 +30,3 @@ def prepare_data(texts, max_words=10000, max_len=200):
         pickle.dump(tokenizer, handle, protocol=pickle.HIGHEST_PROTOCOL)
 
     return padded_sequences
-
-
-print("done")
