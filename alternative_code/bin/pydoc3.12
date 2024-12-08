@@ -1,0 +1,5 @@
+#!/Users/jasper/Desktop/RNN-IMDb-predictions/alternative_code/bin/python3.12
+
+import pydoc
+if __name__ == '__main__':
+    pydoc.cli()
